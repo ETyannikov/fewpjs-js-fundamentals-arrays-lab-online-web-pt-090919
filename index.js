@@ -5,3 +5,4 @@ const removelast = append;
 const removefirst = append;
 
 append.push("Odie")
+prepend.
