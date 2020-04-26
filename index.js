@@ -1,2 +1,5 @@
 // Write your solution here!
-const append, prepend = ["Milo", "Otis", "Garfield"]
+const append = ["Milo", "Otis", "Garfield"];
+const prepend = append;
+const removelast = append;
+const removefirst = append;
