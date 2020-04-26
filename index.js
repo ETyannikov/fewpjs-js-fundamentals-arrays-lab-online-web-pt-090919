@@ -5,4 +5,5 @@ const removelast = append;
 const removefirst = append;
 
 append.push("Odie")
-prepend.
+prepend.unshift("Odie")
+removelast.pop
