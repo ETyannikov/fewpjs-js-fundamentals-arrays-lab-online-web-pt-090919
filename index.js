@@ -4,7 +4,7 @@ const prepend = append;
 const removelast = append;
 const removefirst = append;
 
-append.push("Odie");
+append.push('Odie');
 prepend.unshift("Odie");
 removelast.pop();
 removefirst.shift();
